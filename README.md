@@ -1,6 +1,6 @@
 Hello 
 
-I'm Ellie White (she/her) currently a data scientist with the Data Science Branch at US Geological Survey. In my role, I spend about 3/4 of my time working on data science projects and the other 1/4 on improving our data science best practices.
+I'm Ellie White (she/her) currently a senior data scientist with the Data Science Branch at U.S. Geological Survey. I spend about 3/4 of my time working on data science projects and the other 1/4 on improving our data science best practices.
 
 Examples of my USGS work available on GitHub include:
 * 🔮 from workflows to streamflows: how we build shared understanding to predict streamflow droughts using deep learning. Poster I made for AGU Fall meeting 2023 on how we work. https://github.com/elliewhite-usgs/dissemination/blob/main/agu_2023_drought_final.pdf
@@ -8,15 +8,18 @@ Examples of my USGS work available on GitHub include:
 * 🐟 fish-in-hot-water: Data visualization I made for #chartchallenge23, and the chart is meant to communicate the effects of climate change on fish spawning.	https://github.com/whiteellie/fish-in-hot-water 
 
 Examples of my USGS work available on GitLab include++:
-* 🌍 national-geospatial-attributes-template: [in progress] Lead developer of an R and targets geospatial processing pipeline that takes attributes processed to one spatial scale and transforms them to another scale based on downstream modeling requirements. The forks from this pipeline will be used to develop and QC model inputs for three active projects in the Water Mission area and will be able to accommodate future modeling projects as needs arise – driving down development time and labor costs. https://code.usgs.gov/wma/dsp/pipeline-templates/rescaling-attributes-template
-* ✅ model-eval: [in progress] Lead developer of a model evaluation pipeline that implements drought pooling and matching for evaluation of observations against predictions. The pipeline evaluates how well a given ML model predicts streamflow droughts across several metrics important to decision makers including drought occurrence, onset, recovery, severity, and duration. https://code.usgs.gov/water/RegionalDroughtEarlyWarning/modeling/model-eval
+* 🌍 national-geospatial-attributes-template: Created an R-based rescaling attributes pipeline (using targets), which transfers data from one spatial polygon to another. The 10 forks spawned off this template pipeline support the nationwide water availability assessments and allows one to produce harmonized datasets with a consistent method. https://code.usgs.gov/wma/dsp/pipeline-templates/rescaling-attributes-template
 
-Examples of my work under previous affiliations:
+* :checkered_flag: Created an R pipeline and Python workflow that processes land cover information at the catchment scale for CONUS while leveraging HPC resources to handle large-scale geospatial data. These data are used as inputs into machine learning models improving their predictive capability.
+
+* ✅ model-eval: Developed pipelines for drought model evaluation and test/train splits using data on AWS S3 buckets. These pipelines integrate geospatial basin groupings to address spatial and temporal autocorrelation improving model performance assessment. The model evaluation pipeline implements drought pooling and matching for evaluation of observations against predictions. It how well a given ML model predicts streamflow droughts across several metrics important to decision makers including drought occurrence, onset, recovery, severity, and duration. https://code.usgs.gov/water/RegionalDroughtEarlyWarning/modeling/model-eval
+
+Examples of my work under other affiliations:
 * 🎓 geostatistics-tutorial: Took concepts and computations done manually in a geostatistics course in the Department of Hydrology at UC Davis and translated it to R. Other students have used this to guide their studies and graduate research. https://github.com/whiteellie/geostatistics-tutorial 
 * 👑 us-presidents: Made a classroom style poster of all U.S. presidents calling out some notable events in history. https://github.com/whiteellie/us-presidents  
 
 Writing samples:
-* 👌 quality-assurance: [in progress] Quality assurance plans for predictive modeling and data visualizations that list best practices and the Data Science Branch's cultural norms. https://github.com/whiteellie/quality-assurance
+* 👌 quality-assurance: Quality assurance plans for predictive modeling and data visualizations that list best practices and the Data Science Branch's cultural norms. https://github.com/whiteellie/quality-assurance
 * 📔 quirky-keras: blog post about asymmetric loss functions. https://towardsdatascience.com/quirky-keras-custom-and-asymmetric-loss-functions-for-keras-in-r-a8b5271171fe
 
 
