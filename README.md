@@ -8,7 +8,7 @@ Examples of my USGS work available on GitHub include:
 * 🐟 fish-in-hot-water: Data visualization I made for #chartchallenge23, and the chart is meant to communicate the effects of climate change on fish spawning.	https://github.com/whiteellie/fish-in-hot-water 
 
 Examples of my USGS work available on GitLab include++:
-* 🌍 national-geospatial-attributes-template: Created an R-based rescaling attributes pipeline (using targets), which transfers data from one spatial polygon to another. The 10 forks spawned off this template pipeline support the nationwide water availability assessments and allows one to produce harmonized datasets with a consistent method. https://code.usgs.gov/wma/dsp/pipeline-templates/rescaling-attributes-template
+* 🌍 national-geospatial-attributes-template: Created an R-based rescaling attributes pipeline (using targets), which transfers data from one spatial polygon to another. The 10 forks spawned off this template pipeline support the nationwide water availability assessments and allows one to produce harmonized datasets with a consistent method. https://github.com/DOI-USGS/Rescaling-Attributes-Template 
 
 * :checkered_flag: Created an R pipeline and Python workflow that processes land cover information at the catchment scale for CONUS while leveraging HPC resources to handle large-scale geospatial data. These data are used as inputs into machine learning models improving their predictive capability.
 
