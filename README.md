@@ -1,6 +1,8 @@
 Hello 
 
-I'm Ellie White (she/her) currently a senior data scientist with the Data Science Branch at U.S. Geological Survey. I spend about 3/4 of my time working on data science projects and the other 1/4 on improving our data science best practices.
+I'm Ellie White (she/her) currently a water resources data scientist with the One Water Practice Area at EKI Enviroment and Water. I spend 90% of my time on data science projects and the remaining 10% on writing proposals, developing training materials and an R package for reproducibility.
+
+Examples of my EKI work include: 
 
 Examples of my USGS work available on GitHub include:
 * 🔮 from workflows to streamflows: how we build shared understanding to predict streamflow droughts using deep learning. Poster I made for AGU Fall meeting 2023 on how we work. https://github.com/elliewhite-usgs/dissemination/blob/main/agu_2023_drought_final.pdf
